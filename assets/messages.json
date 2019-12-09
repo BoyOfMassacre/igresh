@@ -1,0 +1,14 @@
+{
+    "greets": [
+        "Igresh is running in your app.", "Actual version: "
+    ],
+    "error": {
+        "appExists": "Element with id equal to \"app\" not exists. Please add <div id=\"app\"></div> to your .html file.",
+        "navbar": {
+            "propsExists": "Property \"name\" or \"children\" is not defined."
+        },
+        "addChildren": {
+            "props": "Childs are not defined."
+        }
+    }
+}
